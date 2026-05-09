@@ -1,6 +1,6 @@
 # Global Retail Connect
 
-### Dashboard Link : 
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMTliMmY0NTAtM2I1MS00NWRjLThkYzQtMGE2NDdhNGY4ZjY0IiwidCI6IjQ4NzIyZDY4LWU5Y2YtNGQ1Mi05ODNmLWU5MmZiNzdkNTczNyJ9
 
 ## Descrição do Problema
 
