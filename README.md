@@ -50,9 +50,16 @@ Snapshot do Dashboard (Visualização e Design)
 
 Aba Overview: Focada em indicadores macro de faturamento e saúde financeira.
 
+![OverView](https://github.com/ZeyOliveira/retail-performance-analytics/blob/main/imagens/overview_.png)
+
 Aba Operacional (Custos): Detalhamento da eficiência logística e concentração de capital em produtos.
 
+![Custos](https://github.com/ZeyOliveira/retail-performance-analytics/blob/main/imagens/custos_.png)
+
 Aba Customer Insights: Análise demográfica e comportamental para segmentação de público.
+
+![Customers](https://github.com/ZeyOliveira/retail-performance-analytics/blob/main/imagens/custumers_insi.png)
+
 
 ---
 
